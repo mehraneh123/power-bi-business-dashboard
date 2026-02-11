@@ -1,0 +1,46 @@
+ProductKey,ProductName,Category,SubCategory,UnitCost,UnitPrice,ProfitMargin
+1000,Smartphone Product 1,Electronics,Smartphone,193.52,571.17,0.661
+1001,Smartphone Product 2,Electronics,Smartphone,368.68,365.22,-0.009
+1002,Smartphone Product 3,Electronics,Smartphone,86.45,106.26,0.186
+1003,Laptop Product 1,Electronics,Laptop,38.46,521.71,0.926
+1004,Laptop Product 2,Electronics,Laptop,304.55,429.22,0.29
+1005,Laptop Product 3,Electronics,Laptop,20.09,582.4,0.966
+1006,Headphone Product 1,Electronics,Headphone,417.9,139.22,-2.002
+1007,Headphone Product 2,Electronics,Headphone,99.09,122.29,0.19
+1008,Headphone Product 3,Electronics,Headphone,159.08,321.98,0.506
+1009,Men Product 1,Clothing,Men,221.65,185.37,-0.196
+1010,Men Product 2,Clothing,Men,309.81,96.6,-2.207
+1011,Men Product 3,Clothing,Men,153.15,229.32,0.332
+1012,Women Product 1,Clothing,Women,233.47,474.33,0.508
+1013,Women Product 2,Clothing,Women,107.84,315.83,0.659
+1014,Women Product 3,Clothing,Women,300.28,42.17,-6.121
+1015,Kids Product 1,Clothing,Kids,307.7,114.76,-1.681
+1016,Kids Product 2,Clothing,Kids,41.88,570.1,0.927
+1017,Kids Product 3,Clothing,Kids,483.16,487.91,0.01
+1018,Furniture Product 1,Home & Kitchen,Furniture,159.26,72.14,-1.208
+1019,Furniture Product 2,Home & Kitchen,Furniture,345.27,272.49,-0.267
+1020,Furniture Product 3,Home & Kitchen,Furniture,69.8,304.68,0.771
+1021,Cookware Product 1,Home & Kitchen,Cookware,26.85,546.95,0.951
+1022,Cookware Product 2,Home & Kitchen,Cookware,136.8,402.58,0.66
+1023,Cookware Product 3,Home & Kitchen,Cookware,162.74,319.24,0.49
+1024,Decor Product 1,Home & Kitchen,Decor,277.89,123.14,-1.257
+1025,Decor Product 2,Home & Kitchen,Decor,485.1,468.45,-0.036
+1026,Decor Product 3,Home & Kitchen,Decor,470.35,538.47,0.127
+1027,Fiction Product 1,Books,Fiction,302.97,554.3,0.453
+1028,Fiction Product 2,Books,Fiction,53.36,129.65,0.588
+1029,Fiction Product 3,Books,Fiction,32.16,205.32,0.843
+1030,Non-Fiction Product 1,Books,Non-Fiction,200.45,173.74,-0.154
+1031,Non-Fiction Product 2,Books,Non-Fiction,416.08,223.7,-0.86
+1032,Non-Fiction Product 3,Books,Non-Fiction,147.66,332.48,0.556
+1033,Educational Product 1,Books,Educational,79.05,484.29,0.837
+1034,Educational Product 2,Books,Educational,46.53,592.33,0.921
+1035,Educational Product 3,Books,Educational,388.4,131.25,-1.959
+1036,Outdoor Product 1,Sports,Outdoor,12.71,492.04,0.974
+1037,Outdoor Product 2,Sports,Outdoor,356.36,441.47,0.193
+1038,Outdoor Product 3,Sports,Outdoor,387.92,58.32,-5.652
+1039,Fitness Product 1,Sports,Fitness,185.65,82.78,-1.243
+1040,Fitness Product 2,Sports,Fitness,432.92,379.63,-0.14
+1041,Fitness Product 3,Sports,Fitness,172.14,52.18,-2.299
+1042,Team Sports Product 1,Sports,Team Sports,162.38,205.23,0.209
+1043,Team Sports Product 2,Sports,Team Sports,367.51,387.97,0.053
+1044,Team Sports Product 3,Sports,Team Sports,444.73,291.25,-0.527
