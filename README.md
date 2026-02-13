@@ -4,7 +4,17 @@
  
 A complete end-to-end business intelligence solution built with Power BI, featuring interactive dashboards for sales, profit, and budget performance analysis of a hypothetical retail company (NextMart Retail).
 
-Dashboard Screenshots are in 02_Documentation!
+![Dashboard Screenshots]:
+
+https://github.com/mehraneh123/power-bi-business-dashboard/blob/main/02_Documentation/CustomerAnallysis.png
+
+https://github.com/mehraneh123/power-bi-business-dashboard/blob/main/02_Documentation/ExecutiveSUmmary.png 
+
+https://github.com/mehraneh123/power-bi-business-dashboard/blob/main/02_Documentation/ProductPerformace.png 
+
+https://github.com/mehraneh123/power-bi-business-dashboard/blob/main/02_Documentation/SalesPerformance.png
+
+
 
  Key Features
 - Interactive Dashboards: 4 pages covering executive summary, sales performance, customer analysis, and product analytics
@@ -27,7 +37,9 @@ graph LR
 
 - Data Model (Star Schema)
   
-Its screenshot is in 02-Documentation folder.
+![Data Model screenshot]:
+
+https://github.com/mehraneh123/power-bi-business-dashboard/blob/main/02_Documentation/NextMart_DataModel.png
 
 Key Performance Indicators
 
